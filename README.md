@@ -42,63 +42,63 @@ Below is a step-by-step visual guide to the app’s interface.
 ## **1. Home Page**  
 This is the main landing page, providing access to different features.  
 
-![Home Page](./project_overview/home.png)  
+<img src="./project_overview/home.png" alt="Home Page" width="200" height="400"/>
 
 ---
 
 ## **2. Login Page**  
 Users can log in to their accounts using Firebase Authentication.  
 
-![Login Page](./project_overview/login.png)  
+<img src="./project_overview/login.png" alt="Login Page" width="200" height="400"/>
 
 ---
 
 ## **3. Signup Page**  
 New users can register by creating an account.  
 
-![Signup Page](./project_overview/singup.png)  
+<img src="./project_overview/singup.png" alt="Signup Page" width="200" height="400"/>
 
 ---
 
 ## **4. Reset Password Page**  
 Users can reset their passwords via email.  
 
-![Reset Password Page](./project_overview/reset.png)  
+<img src="./project_overview/reset.png" alt="Reset Password Page" width="200" height="400"/>
 
 ---
 
 ## **5. Weather Page**  
 Displays real-time weather updates based on the user's location.  
 
-![Weather Page](./project_overview/weather.png)  
+<img src="./project_overview/weather.png" alt="Weather Page" width="200" height="400"/>
 
 ---
 
 ## **6. News Page**  
 Fetches the latest news articles from the API.  
 
-![News Page](./project_overview/news.png)  
+<img src="./project_overview/news.png" alt="News Page" width="200" height="400"/>
 
 ---
 
 ## **7. Notepad**  
 Users can create, edit, and delete notes, which are stored in Firebase.  
 
-![Notepad Page](./project_overview/notes.png)  
+<img src="./project_overview/notes.png" alt="Notepad Page" width="200" height="400"/>
 
 ---
 
 ## **8. Shopping Page**  
 A feature that allows users to manage shopping lists.  
 
-![Shopping Page](./project_overview/shopping.png)  
+<img src="./project_overview/shopping.png" alt="Shopping Page" width="200" height="400"/>
 
 ---
 
 ## **9. Profile Page**  
 Users can view and update their profile settings.  
 
-![Profile Page](./project_overview/profile.png)  
+<img src="./project_overview/profile.png" alt="Profile Page" width="200" height="400"/>
 
 ---
 
